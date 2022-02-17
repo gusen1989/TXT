@@ -1,0 +1,22 @@
+ { 
+	"movie": "Gladiator",
+	
+	"tv serie": "Osman",
+
+	"food": "Sushi",
+
+	"season": "Spring",
+
+	"country": "United states"
+}
+
+
+
+
+
+
+
+
+
+
+
