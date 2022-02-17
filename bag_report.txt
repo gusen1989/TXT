@@ -1,1 +1,7 @@
-
+{
+   "Summary":5,
+   "Steps to reproduce":"open",
+   "Result":"open",
+   "Expected Result":"open",
+   "Severity":"Priority"
+}
