@@ -1,6 +1,12 @@
-{
-	"Qa skills": "git",
-	"gitbash": "jmetr",
-	"Charles": "Postman",
-	"Fiddler": "devtools"
-}
+
+	"Qa skills"
+	
+	sql
+	git
+	gitbash
+	jmetr
+	Charles
+	Postman
+	Fiddler
+	devtools
+        pyton
