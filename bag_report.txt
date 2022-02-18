@@ -1,8 +1,8 @@
 
-   "Summary == 5
+   "Summary == 1
    "Steps to reproduce == open
    "Result == open
    "Expected Result == open
-   "Severity == 
-   Priority ==
+   "Severity == высокый
+   Priority ==высокий
 
