@@ -1,14 +1,14 @@
- { 
-	"movie": "Gladiator",
+ 
+	"movie-----brave Heart
 	
-	"tv serie": "Osman",
+	"tv serie---santa- barbara,
 
-	"food": "Sushi",
+	"food----Sushi,
 
-	"season": "Spring",
+	"season----Spring,
 
-	"country": "United states"
-}
+	"country---United states
+
 
 
 
