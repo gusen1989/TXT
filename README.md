@@ -16,11 +16,11 @@ TXT
 
 8)Отправить изменения на внешний репозиторий. - git add bolt.txt - git commit -m "fil"  git push
 
-9)Создать файл preferences.txt. - touch preferences.txt
+9)Создать файл preferences.txt. - vim preferences.txt
 
 10)В файл preferences.txt добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT. - vim preferences.txt
 
-11)Создать файл skills.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT. - touch skills.txt vim skills.txt
+11)Создать файл skills.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT. - vim skills.txt
 
 12)Сделать коммит в одну строку. - git add . - git commit -m “file 1”
 
